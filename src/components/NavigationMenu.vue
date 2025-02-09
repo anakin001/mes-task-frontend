@@ -14,7 +14,7 @@
     >
       <div class="w-full">
         <div class="flex justify-center mt-4" @click="isOpen = false">
-          <router-link to="/dashboard">
+          <router-link to="/">
             <img src="@/assets/google.png" class="w-auto h-16 mb-4" />
           </router-link>
         </div>
